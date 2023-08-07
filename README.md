@@ -17,7 +17,7 @@ The weather in any city in the world can be simply known with the use of this st
 
 1. Clone the repository or download the code into your system.
 2. Makesure all the 3 files are in the same folder and run the index.html.
-3. your project is ready
+3. Your project is ready
 
 ## Happy Coding
 
