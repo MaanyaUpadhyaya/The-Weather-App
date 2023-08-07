@@ -13,6 +13,13 @@ The weather in any city in the world can be simply known with the use of this st
 * Now we will create a function that will push all the output into our HTML element so that we can display the weather details on the webpage.
 
 
+## How to use the project:
+
+1. Clone the repository or download the code into your system.
+2. Makesure all the 3 files are in the same folder and run the index.html.
+3. your project is ready
+
+## Happy Coding
 
 
 
